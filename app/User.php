@@ -1,5 +1,5 @@
 <?php
-
+// test of changing
 namespace App;
 
 use Illuminate\Notifications\Notifiable;
